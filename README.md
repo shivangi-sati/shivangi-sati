@@ -1,7 +1,7 @@
 <h1 align="center">Shivangi Sati</h1>
 
 <p align="center">
-  <b>Frontend Developer</b> — React · TypeScript · Tailwind CSS
+  <b>Frontend Developer</b> — React · JavaScript · Tailwind CSS
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/shivangi-sati-669951199/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:shivangisati1998@gmail.com">
+  <a href="mailto:shivangisati7@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -27,8 +27,8 @@ Then I moved to the other side of the ticket: I build them.
 That background is why I care about loading states, error states, and edge cases that never show up
 in a demo. I've debugged enough "it works on my machine" to stop trusting it.
 
-**Open to Frontend Developer / React Developer / UI Developer roles.** Immediate joiner, open to
-relocation.
+**Open to Frontend Developer / React Developer / UI Developer roles.** Immediate joiner, looking for
+remote or NCR-based roles — not relocating.
 
 ---
 
@@ -36,7 +36,7 @@ relocation.
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -75,5 +75,5 @@ Every one is deployed. Every one has source you can read.
 <p align="center">
   <a href="https://portfolio-drab-seven-26.vercel.app">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/shivangi-sati-669951199/">LinkedIn</a> ·
-  <a href="mailto:shivangisati1998@gmail.com">Email</a>
+  <a href="mailto:shivangisati7@gmail.com">Email</a>
 </p>
